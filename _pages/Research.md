@@ -10,14 +10,16 @@ author_profile: true
 ## Working Papers
 
 **Bounding a Class of Parameters in Measurement Error Models under Data Combination**,  *Job Market Paper*
-[<a href="#"  onclick="visib('jmp'); return false;"><em>Abstract</em></a>] |[<em>[Draft][JMP]</em>] 
+
+[<a href="#"  onclick="visib('jmp'); return false;"><em>Abstract</em></a>] 
 
 <div id="jmp" style="display: none; padding: 10px">
 Validation data that includes both the measurements and the true values provides an effective way to address measurement error. However, obtaining this data can be challenging due to issues related to data collection and matching. This paper studies measurement error models when the measurement and the true value are observed in two different datasets that cannot be matched. We consider a class of parameters that are essential for understanding (non-classical) measurement error and derive their bounds by solving linear programming problems. Our framework allows for an extensive set of identifying assumptions, ensuring flexible structures for the measurement error. We demonstrate our approach using two unmatched datasets: one with reported welfare benefits and the other with actual benefits.
 </div>
-[JMP]: 
+
 
 **Assessing Measurement Error in Linear Instrumental Variables Models**,  *Submitted*
+
 [<a href="#" style="color:#4CB0CB" onclick="visib('assess_ME'); return false;"><em>Abstract</em></a> ]|
 
 <div id="assess_ME" style="display: none; padding: 10px">
