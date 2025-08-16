@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-<h2 style="border-bottom: 0.5px solid #ccc; padding-bottom: 4px;">
+<h2 style="border-bottom: 0.1px solid #ccc; padding-bottom: 4px;">
 Working Papers
 </h2>
 
@@ -29,7 +29,7 @@ Validation data that includes both the measurements and the true values provides
 [assess_ME_draft]:{{ site.baseurl }}{% link files/Assess_ME_draft.pdf %}
 
 
-<h2 style="border-bottom: 0.5px solid #ccc; padding-bottom: 4px;">
+<h2 style="border-bottom: 0.1px solid #ccc; padding-bottom: 4px;">
 Works in Progress
 </h2>
 **Tighter Gini-Frisch Bounds**
