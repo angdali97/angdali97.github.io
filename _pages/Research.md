@@ -7,10 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-<h2 style="border-bottom: 0.1px solid #ccc; padding-bottom: 4px;">
+<h1 style="border-bottom: 0.5px solid rgba(0,0,0,0.2); padding-bottom: 4px;">
 Working Papers
-</h2>
-
+</h1>
 **Bounding a Class of Parameters in Measurement Error Models under Data Combination**,  *Job Market Paper* <br/>
 [<a href="#"  onclick="visib('jmp'); return false;"><em>Abstract</em></a>] 
 
@@ -29,9 +28,9 @@ Validation data that includes both the measurements and the true values provides
 [assess_ME_draft]:{{ site.baseurl }}{% link files/Assess_ME_draft.pdf %}
 
 
-<h2 style="border-bottom: 0.1px solid #ccc; padding-bottom: 4px;">
+<h1 style="border-bottom: 0.1px solid #ccc; padding-bottom: 4px;">
 Works in Progress
-</h2>
+</h1>
 **Tighter Gini-Frisch Bounds**
 
 
