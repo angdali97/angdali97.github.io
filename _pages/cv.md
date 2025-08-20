@@ -8,5 +8,8 @@ author_profile: true
 
 {% include base_path %}
 
-Education
-======
+[Download my CV (PDF)](https://angdali97.github.io/files/CV_Angda.pdf)
+
+<iframe src="/assets/CV.pdf" width="100%" height="800px" style="border: none;">
+    Your browser does not support PDFs. <a href="/files/CV_Angda.pdf">Download the PDF</a>.
+</iframe>
