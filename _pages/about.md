@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth-year Ph.D student in Economics at Texas A&M University. My research lies in the field of econometrics, with a particular emphasis on the partial identification in measurement error models.
+I am a fifth-year Ph.D student in Economics at Texas A&M University. My research is in econometrics, where I develop theoretical methods to improve empirical analysis, with interests in measurement error models, factor models, and nonparametric kernel methods.
 
 
 
