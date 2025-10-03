@@ -38,7 +38,7 @@ We propose a test for assessing the validity of linear asset pricing models with
 [<a href="#"  onclick="visib('bkcd'); return false;">Abstract</a>]
 
 <div id="bkcd" style="display: none; padding: 5px">
-We consider local polynomial nonparametric kernel estimation of conditional density functions $g(y\mid x)$ when bounds $[a,b]$ on the response $Y$ may be known or unknown. When bounds are known, we use kernel functions for the response that exploit their presence, while when bounds are unknown we advocate using the empirical support $[\min(Y_i), \max(Y_i)]$ in their place. A key feature of our approach is the use of data-driven methods for joint selection of the order of the approximating local polynomial, $p$, and the bandwidths for the response and predictors, $h_y$ and $h_x$. This approach is able to automatically adjust to the presence of unknown bounds and automatically adapt the degree of the approximating polynomial and the bandwidths to the underlying data-generating process, thereby freeing the practitioner from having to select any of these key parameters in an otherwise ad hoc manner. Theoretical underpinnings are provided, and simulations along with an illustrative application indicate that this approach is particularly useful when the distribution of $Y$ is bounded but the bounds are not known a priori, while it remains competitive with existing methods in infinite-support settings. An {R} package that implements these methods is available for interested readers.
+We consider local polynomial nonparametric kernel estimation of conditional density functions $g(y\mid x)$ when bounds $[a,b]$ on the response $Y$ may be known or unknown. When bounds are known, we use kernel functions for the response that exploit their presence, while when bounds are unknown we advocate using the empirical support $[\min(Y_i), \max(Y_i)]$ in their place. A key feature of our approach is the use of data-driven methods for joint selection of the order of the approximating local polynomial, $p$, and the bandwidths for the response and predictors, $h_y$ and $h_x$. This approach is able to automatically adjust to the presence of unknown bounds and automatically adapt the degree of the approximating polynomial and the bandwidths to the underlying data-generating process, thereby freeing the practitioner from having to select any of these key parameters in an otherwise ad hoc manner. Theoretical underpinnings are provided, and simulations along with an illustrative application indicate that this approach is particularly useful when the distribution of $Y$ is bounded but the bounds are not known a priori, while it remains competitive with existing methods in infinite-support settings. An R package that implements these methods is available for interested readers.
 <br/></div>
 
 
@@ -55,4 +55,9 @@ function visib(id){
   if (!el) return;
   el.style.display = (el.style.display === 'none' || el.style.display === '') ? 'block' : 'none';
 }
+</script>
+
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
