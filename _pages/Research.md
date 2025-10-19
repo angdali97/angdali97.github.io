@@ -14,7 +14,7 @@ Working Papers
 [<a href="#"  onclick="visib('jmp'); return false;">Abstract</a>]
 
 <div id="jmp" style="display: none; padding: 5px">
-Validation data that includes both the measurements and the true values provides an effective way to address measurement error. However, obtaining this data can be challenging due to issues related to data collection and matching. This paper studies measurement error models when the measurement and the true value are observed in two different datasets that cannot be matched. We consider a class of parameters that are essential for understanding (non-classical) measurement error and derive their bounds by solving linear programming problems. Our framework allows for an extensive set of identifying assumptions, ensuring flexible structures for the measurement error. We demonstrate our approach using two unmatched datasets: one with reported welfare benefits and the other with actual benefits.
+This paper studies measurement error models where the measurement and the true variable are observed in two different datasets that cannot be matched. A common example arises when a noisy measurement is available in survey data, while the true variable is recorded in administrative data. We consider a class of parameters that characterize the structure of measurement error and derive bounds for them by solving linear programming problems. Our framework accommodates a range of identifying assumptions, allowing for flexible correlation between the measurement error and the true variable. We apply our method to examine patterns of underreporting using two datasets on welfare benefits—one containing reported benefits and the other administrative records of actual benefits.
 <br/></div>
 
 
