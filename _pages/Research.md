@@ -10,7 +10,7 @@ author_profile: true
 <h1 style="border-bottom: 0.5px solid rgba(0,0,0,0.2); padding-bottom: 4px;">
 Working Papers
 </h1>
-**Bounding a Class of Parameters in Measurement Error Models under Data Combination**,  Job Market Paper<br/>
+**Bounding a Class of Parameters in Measurement Error Models under Data Combination**  (*Job Market Paper*)<br/>
 [<a href="#"  onclick="visib('jmp'); return false;">Abstract</a>] | [[Draft][JMP_Angda]]
 
 <div id="jmp" style="display: none; padding: 5px">
