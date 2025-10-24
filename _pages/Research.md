@@ -10,13 +10,14 @@ author_profile: true
 <h1 style="border-bottom: 0.5px solid rgba(0,0,0,0.2); padding-bottom: 4px;">
 Working Papers
 </h1>
-**Bounding a Class of Parameters in Measurement Error Models under Data Combination**,  Job Market Paper (*Draft Coming Soon*)<br/>
-[<a href="#"  onclick="visib('jmp'); return false;">Abstract</a>]
+**Bounding a Class of Parameters in Measurement Error Models under Data Combination**,  Job Market Paper<br/>
+[<a href="#"  onclick="visib('jmp'); return false;">Abstract</a>] | [[Draft][JMP_Angda]]
 
 <div id="jmp" style="display: none; padding: 5px">
 This paper studies measurement error models where the measurement and the true variable are observed in two different datasets that cannot be matched. A common example arises when a noisy measurement is available in survey data, while the true variable is recorded in administrative data. We consider a class of parameters that characterize the structure of measurement error and derive bounds for them by solving linear programming problems. Our framework accommodates a range of identifying assumptions, allowing for flexible correlation between the measurement error and the true variable. We apply our method to examine patterns of underreporting using two datasets on welfare benefits—one containing reported benefits and the other administrative records of actual benefits.
 <br/></div>
 
+[JMP_Angda]:{{ site.baseurl }}{% link files/JMP_Angda.pdf %}
 
 **Assessing Measurement Error in Linear Instrumental Variables Models**<br/>
 [<a href="#"  onclick="visib('assess_ME'); return false;">Abstract</a>] | [[Draft][assess_ME_draft]]
