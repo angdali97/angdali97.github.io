@@ -27,7 +27,7 @@ In linear regression analysis, it is common to use instruments to address measur
 <br/></div>
 [assess_ME_draft]:{{ site.baseurl }}{% link files/Assess_ME_draft.pdf %}
 
-**Testing Beta Pricing Models with Latent Factors**, with Kunpeng Li, Qi Li, and Guofu Zhou<br/>
+**Testing Beta Pricing Models with Latent Factors**, with Kunpeng Li, Qi Li, and Guofu Zhou (*Revise and Resubmit, Management Science*)<br/>
 [<a href="#"  onclick="visib('test_beta'); return false;">Abstract</a>] | [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5491568" target="_blank" rel="noopener noreferrer">SSRN</a>]
 
 
