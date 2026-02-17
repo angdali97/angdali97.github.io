@@ -18,7 +18,7 @@ This paper studies measurement error models where the measurement and the true v
 <br/></div>
 [JMP_Angda]:{{ site.baseurl }}{% link files/JMP_Angda.pdf %}
 
-[JMP_Slides]:{{ site.baseurl }}{% link files/SEA_Slides_Li.pdf %}
+[JMP_Slides]:{{ site.baseurl }}{% link files/Texas_Camp_Li.pdf %}
 
 **Assessing Measurement Error in Linear Instrumental Variables Models** (*Revise and Resubmit, Journal of Applied Econometrics*)<br/>
 [<a href="#"  onclick="visib('assess_ME'); return false;">Abstract</a>] | [[Draft][assess_ME_draft]]
